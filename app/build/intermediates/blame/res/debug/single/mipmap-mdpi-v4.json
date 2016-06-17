@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.jpg",
+        "source": "/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/src/main/res/mipmap-mdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/home/mohit/AndroidStudioProjects/anuj_changes15june/E-Rickshaw(UserMode)/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.jpg",
+        "source": "/home/mohit/AndroidStudioProjects/anuj_changes15june/E-Rickshaw(UserMode)/app/src/main/res/mipmap-mdpi/ic_launcher.jpg"
+    }
+]

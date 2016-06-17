@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_7a58f4d286374d734e64459acb005762643b510a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.0.2_686f423a7ba72336575f87de277e02d0f3600870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.2_2ce1937b61533380dfdf0e26dac4fe95cdfb5ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.2_0f14efcacaaf2cb1f904eae2cacd7f625df30f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_7283dcd4e6b6b1a7e6db7838eae764f3937d51a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_5cf313044cd6698d780fd8e2878c9a385b1229fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6ff2c04f226d2c95ee51d868a883f952b879c516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.2_42fbdda18448e62850aae0863e60ca5dc8eb5049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_194e77bba93b08a0d30a304ae48a7a1a1a9c0eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.2_d5d2c6c66669d9f7b0f6217c22d38b5b8a5469d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.2_bb6901a432baff9b9cc6bc7832a3fb24543b256e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_690f58efca8315325816a7c2b3b7124924ee9cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ac0ca67850ee9c7a0853ea0af1e31b562c8a632d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.0.2_dd48ca4078e3befe3963ba6b417d0ba2891d818d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_c2c16c4c0016cd34326384851de1f92c051a0913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.2_9e3bb9c3411a29cd6a87ffbccc2da7fe257b459b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_54f20af8ab11f09dcb15b4551223369a79529289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_b2a4bde624403d26ac9c10a001dfc4932304c27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.2_d830545247a2582e60e8550c65f3abf20a841917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.2_12cc00c8816ba0b8b462568262883b42f033969a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.2_98123f5866ca35ceb6c12fa6d94318bb4fe2087a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_960642fa7a6e765a8967f6ddb702eb261fcf0ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.2_ca6322cd868ab1848bfbf1c9e8722adeff367058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.2_118e872d7a666c6f87eda692941783ba8d4a10b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.0.2_dbabc6f44860d8eb2c5df36776aa2624161d7c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.2_973aa3c008dfd4d1af144f279c105acc8ca90fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b83f0e2eb145c1520c241226d6048dec09a1000a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.2_3af3b1a9757faf205bfdc9e3e767a3f7489deee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.2_1ece8823464ef72b7f8afcb8e8ccfe7112a6881d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.0.2_6199630d58576d4894e9b5ce399720afc187f5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_e050bf2a92a7f903521cad4f9adc8d3c3e2be980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b5f3eda007c4653863db2d53fa304c616440e695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.2_0eac325c7f13a3b17f99f3365d6ece3bfffac474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.2_7e65a5d6e6470cfab6c67b3500e4d4db61b4ef14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_1dde5a54661e496d9aeea9727e2798d3b5f04580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.2_73185257662b70ecf384f50f5af9fececc3265a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.2_94c3f9d7cc79ba74d0980ba1c636849112ff230e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.2_1beaf5d10f45bdc2f427921ba5c022b894b22391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.2_a4d314c7d592c6596b8289aba97c44435d26f82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.2_cffaffd05b0e491a4622f98e3179b5f6dd6ac1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.2_2d338af2a5c66fdc525374afae8d5ce11fc53130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.0.2_e107e19624605f4c3f30757bc50336f5bdbf1801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f327515a767e388f4d06f81e7df35020a385af66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_b7541f8d0b864293a8c221b3a16bb9a0393d3448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_649533b836ba511615c3ca33b9d01672e68e99f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.0.2_f8f2e0ee568c96f684333a247aee7de4d360c165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.2_1ab86bd96e9e5ea03e6dbf96de80de775d3e57d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.0.2_46fe0fe2d6c5a9ee5a7e0a055936c531e2f371fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.2_2e3961d00279ff0386cb7cde6f156383513d08cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.0.2_b6db3c0915e6333b327d3a68b9ae71fe8b581699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/home/anuj/AndroidStudioProjects/E-Rickshaw(UserMode)/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.2_514ce98c7b36604a1b590d18a87c81f9a5e8465e.jar" />
+    </item>
+
+</items>
