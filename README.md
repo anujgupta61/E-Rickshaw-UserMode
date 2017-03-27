@@ -1,0 +1,1 @@
+This android app is used to locate nearby E-Rickshaws . All the E-Rickshaws are shown on Google Map in form of markers . User can click on marker to poke a E-Rickshaw driver to come to user's location .
